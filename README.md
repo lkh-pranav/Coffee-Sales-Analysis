@@ -39,7 +39,9 @@ Transaction records for Maven Roasters, a fictitious coffee shop operating out o
 
 ### 2.Data Description
 
-![image](https://github.com/lkh-pranav/Coffee-Sales-Analysis/assets/165638568/75897f23-dcc8-4307-bc09-283999762a77)
+
+![image](https://github.com/lkh-pranav/Coffee-Sales-Analysis/assets/165638568/11f67bce-b53c-4b4b-a3f6-4ad876db7e92)
+
 
 ## DATA PREPATION:
 
