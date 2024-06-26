@@ -43,7 +43,7 @@ Transaction records for Maven Roasters, a fictitious coffee shop operating out o
 ![image](https://github.com/lkh-pranav/Coffee-Sales-Analysis/assets/165638568/11f67bce-b53c-4b4b-a3f6-4ad876db7e92)
 
 
-## DATA PREPATION:
+## DATA PREPARATION:
 
 In the data preparation step, the raw sales data from the coffee shop, including transaction records, product information will be collected and organized into a structured format suitable for analysis in Excel. This involves cleaning the data to remove any inconsistencies, errors, or missing values, standardizing formats, and ensuring data integrity. Additionally, data is aggregated and transformed as needed to facilitate analysis, such as calculating total sales, average order value, and average bill per person. Once cleaned and structured, the prepared data will serve as the foundation for building Dashboard.
 
