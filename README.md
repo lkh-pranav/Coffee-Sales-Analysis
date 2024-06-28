@@ -92,7 +92,7 @@ Crafted an engaging and dynamic dashboard tailored for coffee sales analysis. Th
 •	Implemented column charts to display footfall and sales data for each store location, facilitating comparison of customer traffic and revenue generation across different stores.
 
 
-Check out my [Excel Workbook](https://1drv.ms/x/c/594dd24d75e2ee39/IQNwXvYC9xfkR40x0s6Q3XCjATkxaISe5KJBz9702WkE8FM)
+### Check out my [Excel Workbook](https://1drv.ms/x/c/594dd24d75e2ee39/IQNwXvYC9xfkR40x0s6Q3XCjATkxaISe5KJBz9702WkE8FM)
 
 
 ### Snapshot
