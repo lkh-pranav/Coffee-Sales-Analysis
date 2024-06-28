@@ -74,7 +74,7 @@ Utilized pivot charts to swiftly summarize and analyze data, enabling the rapid 
 ![image](https://github.com/lkh-pranav/Coffee-Sales-Analysis/assets/165638568/bbe6af71-eed2-46cc-b615-ef1649be57f6)
 
 
-## DASHBOARD:
+## DASHBOARD OVERVIEW:
 
 
 Crafted an engaging and dynamic dashboard tailored for coffee sales analysis. This interactive platform offers stakeholders a user-friendly interface to explore key metrics, trends, and insights effortlessly.
