@@ -98,7 +98,7 @@ Check out my [Excel Workbook](https://1drv.ms/x/c/594dd24d75e2ee39/IQNwXvYC9xfkR
 ### Snapshot
 
 
-![image](https://github.com/lkh-pranav/Coffee-Sales-Analysis/assets/165638568/67c09148-ac05-4d5c-9577-e70b5e523ffb)
+![Dashboard](https://github.com/lkh-pranav/Coffee-Sales-Analysis/assets/165638568/1a396976-e919-4b61-b6fa-c2f40a11b23b)
 
 
 ### INSIGHTS:
